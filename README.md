@@ -1,8 +1,8 @@
 ## Why this repo?
-Cursor is my entrypoint into LLMs
+Cursor is my entrypoint into LLMs   
 Add these prompts into your chat and fire away
 
-Here is a curation of prompts that I like and work for me
+Here is a set of prompts that I like and work for me   
 Hope you find them useful
 
 ### Inspirations

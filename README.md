@@ -10,3 +10,4 @@ Hope you find them useful
 * summarize: https://x.com/patrickc/status/1928240210728411272
 * prompt-engineer: https://x.com/iannuttall/status/1929110788272189606
 * geoguesser: https://www.astralcodexten.com/p/testing-ais-geoguessr-genius
+* hegelian-dialectic-skill: https://github.com/KyleAMathews/hegelian-dialectic-skill/blob/main/SKILL.md
